@@ -1,0 +1,10 @@
+# 
+Linear_regression.ipynb
+
+# models
+models/linear_regression_model.pkl
+models/linear_regression_model_with_ridge.pkl
+models/linear_regression_model_with_lasso.pkl
+
+# commands
+commands.txt
